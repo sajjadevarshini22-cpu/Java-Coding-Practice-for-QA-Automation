@@ -31,3 +31,16 @@ To improve Java programming skills required for Selenium Automation Testing inte
 8. Second Largest Number in Array
 9. Count Character Occurrence
 10. String Uppercase and Lowercase Conversion
+
+## Day 3 Programs
+
+1. Swap Two Numbers Using Third Variable
+2. Swap Two Numbers Without Third Variable
+3. Armstrong Number
+4. Largest of Three Numbers
+5. Multiplication Table
+6. Sum of Array Elements
+7. Average of Array Elements
+8. Count Even and Odd Numbers in Array
+9. Remove Duplicate Characters
+10. Find Missing Number
