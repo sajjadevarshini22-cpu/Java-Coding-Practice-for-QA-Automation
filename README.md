@@ -44,3 +44,16 @@ To improve Java programming skills required for Selenium Automation Testing inte
 8. Count Even and Odd Numbers in Array
 9. Remove Duplicate Characters
 10. Find Missing Number
+
+## Day 4 Programs
+
+1. Reverse Array
+2. Sort Array in Ascending Order
+3. Sort Array in Descending Order
+4. Find Duplicate Numbers in Array
+5. Count Positive and Negative Numbers
+6. Sum of Even and Odd Numbers
+7. Check String Contains Digit
+8. Count Uppercase and Lowercase Letters
+9. Replace Character in String
+10. Find First Non-Repeated Character
